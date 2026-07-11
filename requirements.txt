@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.5
+statsmodels>=0.14
+mysql-connector-python>=9.0
+jupyter>=1.0
+ipykernel>=6.0
+openpyxl>=3.1
